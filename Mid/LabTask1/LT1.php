@@ -32,7 +32,7 @@ Insurance Policy Number:<br></br>
 </center>
 
 User name:<br></br>
-<input type ="text"><br></br>
+<input type ="text"><br>
 Password:<br></br>
 <input type ="text"><br></br>
 Confirm Password:<br></br>
@@ -41,5 +41,6 @@ Confirm Password:<br></br>
 <center> 
     <input type ="Submit">
 </center>
+
 
 </body>
