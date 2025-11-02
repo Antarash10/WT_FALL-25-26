@@ -36,7 +36,7 @@ User name:<br></br>
 Password:<br></br>
 <input type ="text"><br></br>
 Confirm Password:<br></br>
-<input type ="text"><br></br>
+<input type ="text"><br>
 
 <center> 
     <input type ="Submit">
